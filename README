@@ -1,0 +1,1 @@
+Provides users with a small form to search channels for a specific entry_id. Limits choice of channels and results based on their channel privileges.
